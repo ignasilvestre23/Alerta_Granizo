@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_notification,@drawable/widget_bg,@drawable/widget_square,@drawable/tab_selected,@layout/widget_risk,@layout/widget_clima,@layout/widget_clima_col" />
